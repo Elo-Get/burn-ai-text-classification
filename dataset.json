@@ -1,0 +1,124 @@
+{
+  "categories": {
+    "festival": {
+      "valid_domain": [
+        "Festival de musique en plein air",
+        "Grande fête en ville",
+        "Concert de rock",
+        "Festival de cinéma",
+        "Festival de jazz",
+        "Festival de gastronomie"
+      ],
+      "invalid_domain": [
+        "Réunion de travail",
+        "Séance d'études",
+        "Rencontre professionnelle",
+        "Session de formation",
+        "Conférence sur la finance"
+      ]
+    },
+    "evenement sportif": {
+      "valid_domain": [
+        "Match de football de Ligue 1",
+        "Tournoi de tennis",
+        "Course de marathon",
+        "Compétition de natation",
+        "Match de basket professionnel",
+        "Rallye automobile",
+        "Course cycliste"
+      ],
+      "invalid_domain": [
+        "Séance de cinéma",
+        "Réunion de famille",
+        "Festival d'art",
+        "Atelier de peinture",
+        "Dîner de charité"
+      ]
+    },
+    "repas de famille": {
+      "valid_domain": [
+        "Déjeuner du dimanche avec la famille",
+        "Dîner de Noël",
+        "Réunion de famille pour un anniversaire",
+        "Repas de mariage en famille",
+        "Brunch familial",
+        "Pique-nique avec la famille"
+      ],
+      "invalid_domain": [
+        "Séminaire de travail",
+        "Festival de musique",
+        "Tournoi de golf",
+        "Concert de rock",
+        "Sortie entre collègues"
+      ]
+    },
+    "sortie entre amie": {
+      "valid_domain": [
+        "Sortie cinéma entre amis",
+        "Dîner entre amis",
+        "Après-midi au parc avec des amis",
+        "Voyage entre amis",
+        "Soirée de jeux de société entre amis",
+        "Brunch entre amis"
+      ],
+      "invalid_domain": [
+        "Réunion professionnelle",
+        "Séance de sport individuelle",
+        "Conférence d'entreprise",
+        "Session d'études",
+        "Réunion de famille"
+      ]
+    },
+    "soirée": {
+      "valid_domain": [
+        "Soirée en boîte de nuit",
+        "Soirée d'anniversaire",
+        "Soirée karaoké",
+        "Soirée pyjama",
+        "Soirée dansante",
+        "Soirée de nouvel an"
+      ],
+      "invalid_domain": [
+        "Séminaire d'affaires",
+        "Match de basket",
+        "Conférence académique",
+        "Réunion de travail",
+        "Petit-déjeuner de travail"
+      ]
+    },
+    "ceremonie": {
+      "valid_domain": [
+        "Mariage",
+        "Baptême",
+        "Cérémonie de remise des diplômes",
+        "Cérémonie commémorative",
+        "Cérémonie d'inauguration",
+        "Cérémonie religieuse"
+      ],
+      "invalid_domain": [
+        "Sortie entre amis",
+        "Festival de musique",
+        "Réunion d'entreprise",
+        "Séance de cinéma",
+        "Concert de rock"
+      ]
+    },
+    "rassemblement automobile": {
+      "valid_domain": [
+        "Salon de l'automobile",
+        "Rassemblement de voitures anciennes",
+        "Exposition de voitures de sport",
+        "Rassemblement de motos",
+        "Course de voitures classiques",
+        "Parade de voitures de collection"
+      ],
+      "invalid_domain": [
+        "Conférence de santé",
+        "Repas de famille",
+        "Festival d'art",
+        "Séance de cinéma",
+        "Dîner entre amis"
+      ]
+    }
+  }
+}

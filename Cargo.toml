@@ -1,0 +1,13 @@
+[package]
+name = "text-categorie-classifier"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokenizers = "0.14"
+serde = { version = "1.0.104", features = ["derive"] }
+serde_json = "1.0"
+rand = "0.8"
+burn = {version = "0.15", features = ["wgpu"]}
+burn-tch = "0.15.0"
+burn-fusion = "0.15.0"
